@@ -1,5 +1,5 @@
 # wsl-palestra-referencias
-Referencias para a palestra WSL: Uma Porta para o Mundo Lnux
+Referências para a palestra WSL: Uma Porta para o Mundo Lnux
 
 [Hypervisors](https://www.redhat.com/pt-br/topics/virtualization/what-is-a-hypervisor#:~:text=O%20hipervisor%20fornece%20a%20cada,o%20hipervisor%20gerencia%20a%20programação.)
 
